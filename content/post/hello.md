@@ -1,5 +1,5 @@
 ---
-title: "Hello, world!"
+title: "Content coming soon!"
 date: 2022-05-06T00:06:06-07:00
 draft: false
 showToc: false
