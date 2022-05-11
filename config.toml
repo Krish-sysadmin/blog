@@ -154,6 +154,15 @@ weight = 4
 name = "Facebook"
 url = "https://www.facebook.com/krishjain02/"
 weight = 5
+[[menu.link]]
+name = "Keybase"
+url = "https://keybase.io/krishjain"
+weight = 6
+[[menu.link]]
+name = "Contact me"
+url = "mailto:stellaralways@protonmail.com"
+weight = 7
+
 
 [build]
 noJSConfigInAssets = true
