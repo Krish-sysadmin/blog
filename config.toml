@@ -150,6 +150,10 @@ weight = 3
 name = "Linkedin"
 url = "https://www.linkedin.com/in/krish-j-3679ba208/"
 weight = 4
+[[menu.link]]
+name = "Facebook"
+url = "https://www.facebook.com/krishjain02/"
+weight = 5
 
 [build]
 noJSConfigInAssets = true
